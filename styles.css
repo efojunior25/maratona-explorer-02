@@ -89,7 +89,7 @@
     background: var(--primary-color-dark);
   
   }
- button {
+ .buttonRosa {
     height: 25px;
     align-items: center;
     justify-content: center;
@@ -102,7 +102,7 @@
     transition: background 400ms;
   }
 
-button:hover {
+.buttonRosa:hover {
   background: var(--primary-color-dark);
 }
   
