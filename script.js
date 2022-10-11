@@ -1,6 +1,6 @@
 'use strict';
 
-const switcher = document.querySelector('.button');
+const switcher = document.querySelector('.buttonRosa');
 
 switcher.addEventListener('click', function() {
     document.body.classList.toggle('pink')
