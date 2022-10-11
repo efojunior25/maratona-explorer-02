@@ -89,7 +89,7 @@
     background: var(--primary-color-dark);
   
   }
- button {
+ ul li a button {
     height: 25px;
     align-items: center;
     justify-content: center;
@@ -102,7 +102,7 @@
     transition: background 400ms;
   }
 
-button:hover {
+ul li a button:hover {
   background: var(--primary-color-dark);
 }
   
